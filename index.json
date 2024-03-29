@@ -17,7 +17,10 @@
       </style>
       
         <div id="WaCFzVD" data-type="raw-html"><div id="jtOcQtf">
-  <img id="uyGOqjH" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+  <select id="sxdTrdf">
+    <option value="es">España</option>
+    <option value="us">Estados Unidos</option>
+  </select>
 </div>
 
 <div id="fuLpRSm">
