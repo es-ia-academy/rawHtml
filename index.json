@@ -18,8 +18,8 @@
       
         <div id="YpGhzpV" data-type="raw-html"><div id="qziYqNr">
   <select id="selectConBanderas">
-    <option value="es">España</option>
-    <option value="us">France</option>
+    <option value="es" data-class="flag-icon flag-icon-es">España</option>
+    <option value="us" data-class="flag-icon flag-icon-us">Estados Unidos</option>
     <!-- Agrega más opciones aquí -->
   </select>
 </div>
