@@ -48,8 +48,19 @@
   <button id="YBdEjpp">MENU</button>
 </div></div>
 
-        <script id="acdfr1457" data-type="raw-js">function sayHello() {
-  alert('hello my friend')
+        <script id="acdfr1457" data-type="raw-js">function toggleOpciones() {
+  document.querySelector('.opciones').classList.toggle('oculto');
+}
+
+function seleccionarPais(opcion) {
+  const valor = opcion.getAttribute('data-value');
+  const nombrePais = opcion.querySelector('.nombre-pais').textContent;
+  const seleccionada = document.querySelector('.opcion-seleccionada');
+
+  seleccionada.querySelector('.flag-icon').className = 'flag-icon flag-icon-' + valor;
+  seleccionada.querySelector('.nombre-pais').textContent = nombrePais;
+
+  document.querySelector('.opciones').classList.add('oculto');
 }</script>
 
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
