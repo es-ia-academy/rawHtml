@@ -17,11 +17,23 @@
       </style>
       
         <div id="YpGhzpV" data-type="raw-html"><div id="qziYqNr">
-  <select id="selectConBanderas">
-    <option value="es" data-class="flag-icon flag-icon-es">España</option>
-    <option value="us" data-class="flag-icon flag-icon-us">Estados Unidos</option>
-    <!-- Agrega más opciones aquí -->
-  </select>
+  <div class="select-personalizado">
+    <div class="opcion-seleccionada" onclick="toggleOpciones()">
+      <span class="flag-icon flag-icon-es"></span>
+      <span class="nombre-pais">España</span>
+    </div>
+    <div class="opciones oculto">
+      <div class="opcion" data-value="es" onclick="seleccionarPais(this)">
+        <span class="flag-icon flag-icon-es"></span>
+        <span class="nombre-pais">España</span>
+      </div>
+      <div class="opcion" data-value="us" onclick="seleccionarPais(this)">
+        <span class="flag-icon flag-icon-us"></span>
+        <span class="nombre-pais">Estados Unidos</span>
+      </div>
+      <!-- Agrega más opciones aquí -->
+    </div>
+  </div>
 </div>
 
 <div id="lhSSxFM">
