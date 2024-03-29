@@ -1,38 +1,36 @@
-<section id="QhVldSE" data-type="section">
-      <style id="AgGClTA" type="text/css" data-type="css">
+<section id="awGXXCd" data-type="section">
+      <style id="QwAtuaY" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#QhVldSE{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#yllmFCa{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
-    @media screen and (min-width:0px){#ZtbBKcb{}}
-    @media screen and (min-width:0px){#bPGyVjg{height:100px;width:auto;object-fit:contain}}
-    @media screen and (min-width:0px){#dVVYPvf{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#IXZHEuq{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#jrhLwCk{height:auto;}}
-    @media screen and (min-width:0px){#UlUODBt{height:auto;padding:10px;border:none;border-radius:10px;}}
-    @media screen and (max-width:640px){#dVVYPvf{display:none;}}
-    @media screen and (max-width:640px){#yllmFCa{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    @media screen and (min-width:0px){#awGXXCd{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#NdCUUCL{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#PlVgqrJ{}}
+    @media screen and (min-width:0px){#WceSzcX{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#gOXkKpH{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#AMvupxr{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#JdSLKKY{height:auto;}}
+    @media screen and (min-width:0px){#POJlFfT{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#gOXkKpH{display:none;}}
+    @media screen and (max-width:640px){#NdCUUCL{grid-template-columns:repeat(2, auto); place-content:space-around;}}
     
     
     
       </style>
       
-        <div id="yllmFCa" data-type="grid">
-            <div id="ZtbBKcb">
-              <img id="bPGyVjg" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
-            </div>
+        <div id="NdCUUCL" data-type="raw-html"><div id="PlVgqrJ">
+  <img id="WceSzcX" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+</div>
 
-            <div id="dVVYPvf">
-              <a id="vckmcrl" contenteditable="true" href="https://www">HOME</a>
-              <a id="nhgbpoR" contenteditable="true" href="https://www">ABOUT</a> 
-              <a id="vhXAkYF" contenteditable="true" href="https://www">SERVICES</a> 
-              <a id="lsqjWGQ" contenteditable="true" href="https://www">CONTACT</a> 
-              <a id="FATlorG" contenteditable="true" href="https://www">BLOG</a>  
-            </div>
+<div id="gOXkKpH">
+  <a id="TUqJxhf" contenteditable="true" href="https://www">HOME</a>
+  <a id="dpVTYLe" contenteditable="true" href="https://www">ABOUT</a>
+  <a id="CzxrKFA" contenteditable="true" href="https://www">SERVICES</a>
+  <a id="YEqrzFJ" contenteditable="true" href="https://www">CONTACT</a>
+  <a id="bBZFEGx" contenteditable="true" href="https://www">BLOG</a>
+</div>
 
-            <div id="jrhLwCk">
-              <button id="UlUODBt">MENU</button>
-            </div>
-        </div>
+<div id="JdSLKKY">
+  <button id="POJlFfT">MENU</button>
+</div></div>
 
 
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
@@ -42,8 +40,4 @@
 @media screen and (min-width:0px){#uGnBxzu{width:100%;height:100vh;position:relative}}
 
     @media screen and (min-width:0px){#zVQVYxR{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#BnQoscD{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}</style><div id="zVQVYxR" data-type="raw-html" class="grid-section"><video id="BnQoscD" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
-  <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-</video><video id="BnQoscD1" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
-  <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-</video></div><script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
+    @media screen and (min-width:0px){#BnQoscD{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}</style><div id="zVQVYxR" data-type="raw-html" class="grid-section"><video id="BnQoscD" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4"></video><video id="BnQoscD1" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4"></video></div><script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
