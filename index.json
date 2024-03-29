@@ -5,7 +5,7 @@
     @media screen and (min-width:0px){#wuLKlQS{width:100%;height:100vh;position:relative}}
 
     @media screen and (min-width:0px){#wxFJHqQ{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#VhRhBzP{object-fit:cover;height:100%;min-height:10vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#VhRhBzP{object-fit:cover;height:10vh;width:100%;background:white;}}
     
     
         </style>
