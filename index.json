@@ -17,7 +17,15 @@
       </style>
       
         <div id="NdCUUCL" data-type="raw-html"><div id="PlVgqrJ">
-  <img id="WceSzcX" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+  <div class="select-personalizado">
+    <div class="opcion-seleccionada" onclick="toggleOpciones()">
+      <span class="flag-icon flag-icon-fr"></span>
+      <span class="nombre-pais">Francia</span>
+    </div>
+    <div class="opciones oculto">
+      <!-- Las opciones se generan dinámicamente aquí -->
+    </div>
+  </div>
 </div>
 
 <div id="gOXkKpH">
