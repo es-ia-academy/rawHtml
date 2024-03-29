@@ -1,40 +1,40 @@
-<section id="AOKdicJ" data-type="section">
-      <style id="brqHYYd" type="text/css" data-type="css">
+<section id="UJupETt" data-type="section">
+      <style id="JaSRnhG" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#AOKdicJ{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#WaCFzVD{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
-    @media screen and (min-width:0px){#jtOcQtf{}}
-    @media screen and (min-width:0px){#uyGOqjH{height:100px;width:auto;object-fit:contain}}
-    @media screen and (min-width:0px){#fuLpRSm{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#ClRWqmN{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#QOvkQfk{height:auto;}}
-    @media screen and (min-width:0px){#CnRtCrc{height:auto;padding:10px;border:none;border-radius:10px;}}
-    @media screen and (max-width:640px){#fuLpRSm{display:none;}}
-    @media screen and (max-width:640px){#WaCFzVD{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    @media screen and (min-width:0px){#UJupETt{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#YpGhzpV{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#qziYqNr{}}
+    @media screen and (min-width:0px){#ScLppsH{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#lhSSxFM{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#hNKADdM{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#jVmNAuy{height:auto;}}
+    @media screen and (min-width:0px){#YBdEjpp{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#lhSSxFM{display:none;}}
+    @media screen and (max-width:640px){#YpGhzpV{grid-template-columns:repeat(2, auto); place-content:space-around;}}
     
     
     
       </style>
       
-        <div id="WaCFzVD" data-type="raw-html"><div id="jtOcQtf">
-  <select id="sxdTrdf">
-    <option value="es">España</option>
-    <option value="us">Estados Unidos</option>
-  </select>
-</div>
+        <div id="YpGhzpV" data-type="raw-html">
+            <div id="qziYqNr">
+              <img id="ScLppsH" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+            </div>
 
-<div id="fuLpRSm">
-  <a id="EvwBFTo" contenteditable="true" href="https://www">HOME</a>
-  <a id="XdYqyJw" contenteditable="true" href="https://www">ABOUT</a>
-  <a id="sPUcvNk" contenteditable="true" href="https://www">SERVICES</a>
-  <a id="ctSqkxa" contenteditable="true" href="https://www">CONTACT</a>
-  <a id="kNTwVSz" contenteditable="true" href="https://www">BLOG</a>
-</div>
+            <div id="lhSSxFM">
+              <a id="GqdNdnI" contenteditable="true" href="https://www">HOME</a>
+              <a id="BsgJala" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="llVVzzy" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="GyQQGyZ" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="WbLpvSZ" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
 
-<div id="QOvkQfk">
-  <button id="CnRtCrc">MENU</button>
-</div></div>
+            <div id="jVmNAuy">
+              <button id="YBdEjpp">MENU</button>
+            </div>
+        </div>
 
+        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello my friend')}</script>
 
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
         <img src="../global/file/edit-section.svg" data-type="img-edit">
