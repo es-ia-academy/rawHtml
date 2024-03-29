@@ -34,7 +34,9 @@
             </div>
         </div>
 
-        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello my friend')}</script>
+        <script id="acdfr1457" data-type="raw-js">function sayHello() {
+  alert('hello my friend')
+}</script>
 
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
         <img src="../global/file/edit-section.svg" data-type="img-edit">
