@@ -1,15 +1,8 @@
 <section id="xdtbqpx" data-type="section"><div id="LCPLzkI" data-type="raw-html" class="grid-section">
-
   <video id="CrxpHvh" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
     <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
   </video>
-
   <video id="CrxpHvh2" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
     <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
   </video>
-</div>
-
-
-<button class="toolbar-open" onclick="toolsOpenModal(this)">
-  <img src="../global/file/edit-section.svg" data-type="img-edit">
-</button></section>
+</div></section>
