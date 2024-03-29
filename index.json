@@ -1,44 +1,38 @@
-<section id="awGXXCd" data-type="section">
-      <style id="QwAtuaY" type="text/css" data-type="css">
+<section id="AOKdicJ" data-type="section">
+      <style id="brqHYYd" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#awGXXCd{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#NdCUUCL{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
-    @media screen and (min-width:0px){#PlVgqrJ{}}
-    @media screen and (min-width:0px){#WceSzcX{height:100px;width:auto;object-fit:contain}}
-    @media screen and (min-width:0px){#gOXkKpH{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#AMvupxr{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#JdSLKKY{height:auto;}}
-    @media screen and (min-width:0px){#POJlFfT{height:auto;padding:10px;border:none;border-radius:10px;}}
-    @media screen and (max-width:640px){#gOXkKpH{display:none;}}
-    @media screen and (max-width:640px){#NdCUUCL{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    @media screen and (min-width:0px){#AOKdicJ{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#WaCFzVD{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#jtOcQtf{}}
+    @media screen and (min-width:0px){#uyGOqjH{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#fuLpRSm{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#ClRWqmN{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#QOvkQfk{height:auto;}}
+    @media screen and (min-width:0px){#CnRtCrc{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#fuLpRSm{display:none;}}
+    @media screen and (max-width:640px){#WaCFzVD{grid-template-columns:repeat(2, auto); place-content:space-around;}}
     
     
     
       </style>
       
-        <div id="NdCUUCL" data-type="raw-html"><div id="PlVgqrJ">
-  <div class="select-personalizado">
-    <div class="opcion-seleccionada" onclick="toggleOpciones()">
-      <span class="flag-icon flag-icon-fr"></span>
-      <span class="nombre-pais">Francia</span>
-    </div>
-    <div class="opciones oculto">
-      <!-- Las opciones se generan dinámicamente aquí -->
-    </div>
-  </div>
-</div>
+        <div id="WaCFzVD" data-type="raw-html">
+            <div id="jtOcQtf">
+              <img id="uyGOqjH" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+            </div>
 
-<div id="gOXkKpH">
-  <a id="TUqJxhf" contenteditable="true" href="https://www">HOME</a>
-  <a id="dpVTYLe" contenteditable="true" href="https://www">ABOUT</a>
-  <a id="CzxrKFA" contenteditable="true" href="https://www">SERVICES</a>
-  <a id="YEqrzFJ" contenteditable="true" href="https://www">CONTACT</a>
-  <a id="bBZFEGx" contenteditable="true" href="https://www">BLOG</a>
-</div>
+            <div id="fuLpRSm">
+              <a id="EvwBFTo" contenteditable="true" href="https://www">HOME</a>
+              <a id="XdYqyJw" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="sPUcvNk" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="ctSqkxa" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="kNTwVSz" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
 
-<div id="JdSLKKY">
-  <button id="POJlFfT">MENU</button>
-</div></div>
+            <div id="QOvkQfk">
+              <button id="CnRtCrc">MENU</button>
+            </div>
+        </div>
 
 
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
