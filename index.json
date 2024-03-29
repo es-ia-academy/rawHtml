@@ -10,13 +10,12 @@
     
         </style>
       
-        <div id="wxFJHqQ" data-type="raw-html" class="grid-section">
-        
-          <video id="VhRhBzP" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
-            <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-          </video>
-
-        </div>
+        <div id="wxFJHqQ" data-type="raw-html" class="grid-section"><video id="VhRhBzP" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
+  <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+</video>
+<video id="VhRhBzP" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
+  <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+</video></div>
 
         <script id="acdfr1457" data-type="raw-js"></script>
 
