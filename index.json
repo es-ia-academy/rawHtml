@@ -27,3 +27,68 @@ function seleccionarPais(opcion) {
 
   document.querySelector('.opciones').classList.add('oculto');
 }</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
+    
+    
+  
+    
+    
+    <section id="EchrnEw" data-type="section" class="grid-item">
+    <style id="QXifykU" type="text/css" data-type="css">
+      
+    @media screen and (min-width:0px){#EchrnEw{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#SnWuFic{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#sHZZChD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#fsPCigJ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#JDHdoha{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#PPXCTSB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#jBwgDxG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#VRkwhcc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#kPpvdki{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
+    @media screen and (min-width:0px){#QIbAKmj{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
+    @media screen and (min-width:0px){#zFpwvDc{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
+    @media screen and (min-width:0px){#DmDdYzI{font-size:1rem;color:white;}}
+    @media screen and (min-width:0px){#EMVwIot{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#ZYcYzuo{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    @media screen and (min-width:0px){#cwZsQDQ{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    
+    </style>
+    
+    <div id="SnWuFic" data-type="container">
+      
+        <div id="fsPCigJ" data-type="bg-color" class="div-visible">
+          <div id="JDHdoha" data-type="solid-color" class="div-visible" style="background: rgb(14, 14, 14);"></div>
+          <div id="PPXCTSB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="jBwgDxG" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="rHbusQR" data-type="bg-image" class="div-hidden">
+          <picture id="NJSyaEn">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="sHZZChD" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="qGBRMWk" data-type="bg-video" class="div-hidden">
+          <video id="VRkwhcc" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      
+  
+      <div id="kPpvdki" data-type="content">
+        <div id="QIbAKmj">
+          <h2 id="zFpwvDc" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+          <p id="DmDdYzI" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
+          <div id="EMVwIot">
+            <a id="ZYcYzuo" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="cwZsQDQ" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div> <!-- div2ID -->
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
