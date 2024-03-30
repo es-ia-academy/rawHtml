@@ -17,20 +17,19 @@
       </style>
       
         <div id="YpGhzpV" data-type="raw-html"><div id="qziYqNr">
+  <main>
   <div class="select">
     <span class="select__flag" aria-hidden="true"></span>
-
     <select class="select__input" name="country-selector" id="country-selector">
-      <option value="0">Select option</option>
+      <option value="0">Select Country</option>
       <option value="IT">Italy</option>
-      <option value="UK">United Kingdom</option>
-      <!-- other <option>s here -->
+      <option value="PT">Portugal</option>
+      <option value="ES">Spain</option>
     </select>
-
-    <svg class="select__arrow" aria-hidden="true" viewBox="0 0 16 16">
-      <polyline points="3.5,6.5 8,11 12.5,6.5" stroke-width="2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></polyline>
-    </svg>
+        
+    <svg class="select__arrow" aria-hidden="true" viewBox="0 0 16 16"><polyline points="3.5,6.5 8,11 12.5,6.5" stroke-width="2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></polyline></svg>
   </div>
+</main>
 </div>
 
 <div id="lhSSxFM">
