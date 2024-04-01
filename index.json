@@ -1,4 +1,10 @@
-<section id="nubaSwc" data-type="section"><style id="rkiniYl" type="text/css" data-type="css">@media screen and (min-width:0px){#nubaSwc{display:grid;}}
+<section id="nubaSwc" data-type="section"><style id="rkiniYl" type="text/css" data-type="css">@media screen and (min-width:0px)
+{
+  #nubaSwc
+  {
+    display: grid;
+  }
+}
 </style><div id="MCTgCGA" data-type="html"><div id="RNwbwYr" data-type="raw-html"><div id="hiBSxnZ"><img id="zhsBoyJ" src="https://raw.githubusercontent.com/es-ia-academy/site/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div><div id="VjcbwaF"><a id="MkaGmiu" href="https://www">INICIO</a><a id="xOLIyaR" href="https://www">IA GENERATIVA</a><a id="canqpCX" href="https://www">FORMACIONES</a><a id="kurYRiH" href="https://www">BLOG</a><a id="imUWaZN" href="https://www">CONTACT</a></div><div id="qzBuTcc"><a id="keQVLFv" href="https://www">CHAT</a><div id="dropdown_div"><a id="dropdown_open" href="#" onclick="dropdown_open('dropdown_list')"><img id="img-fr" src="https://flagicons.lipis.dev/flags/1x1/fr.svg">FR </a><div id="dropdown_list" style="display:none"><a id="a-es" href="#"><img id="img-es" src="https://flagicons.lipis.dev/flags/1x1/es.svg">ES
         </a><a id="a-it" href="#"><img id="img-it" src="https://flagicons.lipis.dev/flags/1x1/it.svg">IT </a></div></div></div></div></div><script id="liVZVZo" data-type="js"><style id="zazcvJe" type="text/css" data-type="css">@media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
 @media screen and (min-width:0px){#img-it{object-fit:contain;height:20px;width:20px;}}
