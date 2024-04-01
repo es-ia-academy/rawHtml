@@ -1,37 +1,16 @@
-<section id="RJVWqwG" data-type="section">
-      <style id="NFXfPGX" type="text/css" data-type="css">#abc
+<section id="RJVWqwG" data-type="section"><style id="NFXfPGX" type="text/css" data-type="css">#abc
 {
   background: red;
   padding: 20px;
 }
-</style>
-      <div id="hbmPHRy" data-type="html"><p id="abc">Hello</p></div>
-      <script id="TcHdPWg" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section><section id="cWXYpCb" data-type="section">
-      <style id="upNdiAh" type="text/css" data-type="css">#AEtlthi
+</style><div id="hbmPHRy" data-type="html"><p id="abc">Hello</p></div><script id="TcHdPWg" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="cWXYpCb" data-type="section"><style id="upNdiAh" type="text/css" data-type="css">#AEtlthi
 {
   background: red;
   padding: 20px;
 }
-</style>
-      <div id="epewskW" data-type="html"><p id="AEtlthi">Hello</p></div>
-      <script id="uixMCZd" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section><section id="mHyDaCb" data-type="section">
-      <style id="CYNnmbO" type="text/css" data-type="css">#ysjRvmd
+</style><div id="epewskW" data-type="html"><p id="AEtlthi">Hello</p></div><script id="uixMCZd" data-type="js"></script><button class="toolbar-open"><img src="../global/file/edit-section.svg"></button></section><section id="mHyDaCb" data-type="section"><style id="CYNnmbO" type="text/css" data-type="css">#ysjRvmd
 {
   background: yellow;
   padding: 20px;
 }
-</style>
-      <div id="sWycSzX" data-type="html"><p id="ysjRvmd">Hello</p></div>
-      <script id="kzLQrla" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section>
+</style><div id="sWycSzX" data-type="html"><p id="ysjRvmd">Hello</p></div><script id="kzLQrla" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
