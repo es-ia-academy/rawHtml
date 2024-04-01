@@ -5,9 +5,19 @@
   width: 100vw;
   text-align: center;
 }
-</style><div id="axEZySh" data-type="html"><h1 id="XgRcdSz">Hello my friend</h1></div><script id="fDfNnpL" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="LazoMeT" data-type="section"><style id="fhoeSQO" type="text/css" data-type="css">#EjJjgfm{
-    background:red;
-    padding:20px;
-    width:100vw;
-    text-align:center;
-}</style><div id="JwXCsGw" data-type="html"><h1 id="EjJjgfm">Hello my friend</h1></div><script id="qSQAHCz" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+</style><div id="axEZySh" data-type="html"><h1 id="XgRcdSz">Hello my friend</h1></div><script id="fDfNnpL" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="a11" data-type="section">
+  <style id="fhoeSQO" type="text/css" data-type="css">
+    #EjJjgfm
+    {
+      background: red;
+      padding: 20px;
+      width: 100vw;
+      text-align: center;
+    }
+
+  </style>
+  <div id="JwXCsGw" data-type="html">
+    <h1 id="EjJjgfm">Hello my friend</h1>
+  </div>
+  <script id="qSQAHCz" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button>
+</section>
