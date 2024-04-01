@@ -3,12 +3,14 @@
     padding:20px;
     width:100vw;
     text-align:center;
-}</style><div id="YDGSmKl" data-type="html"><h1 id="abc">Hello my friend</h1></div><script id="JAzvBxW" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="UEDmwiY" data-type="section"><style id="DILFbKE" type="text/css" data-type="css">#XgRcdSz{
-    background:red;
-    padding:20px;
-    width:100vw;
-    text-align:center;
-}</style><div id="axEZySh" data-type="html"><h1 id="XgRcdSz">Hello my friend</h1></div><script id="fDfNnpL" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="LazoMeT" data-type="section"><style id="fhoeSQO" type="text/css" data-type="css">#EjJjgfm{
+}</style><div id="YDGSmKl" data-type="html"><h1 id="abc">Hello my friend</h1></div><script id="JAzvBxW" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="UEDmwiY" data-type="section"><style id="DILFbKE" type="text/css" data-type="css">#XgRcdSz
+{
+  background: yellow;
+  padding: 20px;
+  width: 100vw;
+  text-align: center;
+}
+</style><div id="axEZySh" data-type="html"><h1 id="XgRcdSz">Hello my friend</h1></div><script id="fDfNnpL" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="LazoMeT" data-type="section"><style id="fhoeSQO" type="text/css" data-type="css">#EjJjgfm{
     background:red;
     padding:20px;
     width:100vw;
