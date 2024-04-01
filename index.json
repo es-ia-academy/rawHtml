@@ -1,4 +1,5 @@
 <section id="QbUyFyI" data-type="section"><style id="gNPpmIf" type="text/css" data-type="css">#abc{
     background:red;
     padding:20px;
+    width:100vw;
 }</style><div id="YDGSmKl" data-type="html"><h1 id="abc">Hello my friend</h1></div><script id="JAzvBxW" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
