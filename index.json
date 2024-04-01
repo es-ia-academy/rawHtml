@@ -1,47 +1,18 @@
-<section id="UJupETt" data-type="section"><style id="JaSRnhG" type="text/css" data-type="css">
-        
-    @media screen and (min-width:0px){#UJupETt{position:sticky;top:0;z-index:100;width:100vw;}}
-    @media screen and (min-width:0px){#YpGhzpV{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;padding:20px}}
-    @media screen and (min-width:0px){#qziYqNr{}}
-    @media screen and (min-width:0px){#ScLppsH{height:100px;width:auto;object-fit:contain}}
-    @media screen and (min-width:0px){#lhSSxFM{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#hNKADdM{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#jVmNAuy{height:auto;}}
-    @media screen and (min-width:0px){#YBdEjpp{height:auto;padding:10px;border:none;border-radius:10px;}}
-    @media screen and (max-width:640px){#lhSSxFM{display:none;}}
-    @media screen and (max-width:640px){#YpGhzpV{grid-template-columns:repeat(2, auto); place-content:space-around;}}
-    
-    
-    
-      </style><div id="YpGhzpV" data-type="raw-html"><div id="lhSSxFM"><a id="GqdNdnI" contenteditable="true" href="https://www">HOME</a><a id="BsgJala" contenteditable="true" href="https://www">ABOUT</a><a id="llVVzzy" contenteditable="true" href="https://www">SERVICES</a><a id="GyQQGyZ" contenteditable="true" href="https://www">CONTACT</a><a id="WbLpvSZ" contenteditable="true" href="https://www">BLOG</a></div><div id="jVmNAuy"><button id="YBdEjpp">MENU</button></div></div><script id="acdfr1457" data-type="raw-js">function toggleOpciones() {
-  document.querySelector('.opciones').classList.toggle('oculto');
-}
-
-function seleccionarPais(opcion) {
-  const valor = opcion.getAttribute('data-value');
-  const nombrePais = opcion.querySelector('.nombre-pais').textContent;
-  const seleccionada = document.querySelector('.opcion-seleccionada');
-
-  seleccionada.querySelector('.flag-icon').className = 'flag-icon flag-icon-' + valor;
-  seleccionada.querySelector('.nombre-pais').textContent = nombrePais;
-
-  document.querySelector('.opciones').classList.add('oculto');
-}</script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="EchrnEw" data-type="section" class="grid-item"><style id="QXifykU" type="text/css" data-type="css">
-      
-    @media screen and (min-width:0px){#EchrnEw{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#SnWuFic{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#sHZZChD{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#fsPCigJ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#JDHdoha{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#PPXCTSB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#jBwgDxG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#VRkwhcc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#kPpvdki{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
-    @media screen and (min-width:0px){#QIbAKmj{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
-    @media screen and (min-width:0px){#zFpwvDc{font-size: clamp(2.5rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
-    @media screen and (min-width:0px){#DmDdYzI{font-size:1rem;color:white;}}
-    @media screen and (min-width:0px){#EMVwIot{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#ZYcYzuo{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    @media screen and (min-width:0px){#cwZsQDQ{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    
-    </style><div id="SnWuFic" data-type="container"><div id="fsPCigJ" data-type="bg-color" class="div-hidden"><div id="JDHdoha" data-type="solid-color" class="div-visible" style="background: rgb(14, 14, 14);"></div><div id="PPXCTSB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="jBwgDxG" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="rHbusQR" data-type="bg-image" class="div-visible"><picture id="NJSyaEn"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="sHZZChD" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTE4MTU4NDl8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="qGBRMWk" data-type="bg-video" class="div-hidden"><video id="VRkwhcc" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div><!-- bg-video --><div id="kPpvdki" data-type="content"><div id="QIbAKmj"><h2 id="zFpwvDc" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="DmDdYzI" contenteditable="true">Lorem ipsum dolor sit amet conmi</p><div id="EMVwIot"><a id="ZYcYzuo" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="cwZsQDQ" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+<section id="ypgWvSR" data-type="section">
+  <style id="GrillasStyle" type="text/css" data-type="css">
+    @media screen and (min-width:0px){
+      #GrillasColores {position:relative; height:100vh; display:flex; flex-direction:row;}
+      .grilla {flex: 1; display:flex; justify-content:center; align-items:center; color:white; font-size:24px; font-family: Arial, sans-serif;}
+      .verde {background-color: green;}
+      .amarillo {background-color: yellow; color: black;}
+    }
+  </style>
+  <div id="GrillasColoresContainer" data-type="raw-html">
+    <div class="grilla verde">
+      Grilla Verde
+    </div>
+    <div class="grilla amarillo">
+      Grilla Amarilla
+    </div>
+  </div>
+</section>
