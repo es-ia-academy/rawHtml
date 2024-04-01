@@ -10,10 +10,10 @@
   
 </section>
   <section id="Qrecnal" data-type="section">
-      <style id="ITGCVCC" type="text/css" data-type="css"></style>
-      <div id="ZaowesF" data-type="html"></div>
-      <script id="ackADXp" data-type="js"></script>
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg">
-      </button>
-  </section>
+  <style id="ITGCVCC" type="text/css" data-type="css"></style>
+  <div id="ZaowesF" data-type="html">
+      <h1>Como ser el mejor desarrolador del mundo</h1>
+      <p>Para se el mejor desarrollador web tienes que ser apasionado por el codigo</p>
+  </div>
+  <script id="ackADXp" data-type="js"></script>
+</section>
