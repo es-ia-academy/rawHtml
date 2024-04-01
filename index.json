@@ -1,6 +1,8 @@
 <section id="RJVWqwG" data-type="section">
-      <style id="NFXfPGX" type="text/css" data-type="css">#abc{
-    bacground:red;
+      <style id="NFXfPGX" type="text/css" data-type="css">#abc
+{
+  background: red;
+  padding: 20px;
 }
 </style>
       <div id="hbmPHRy" data-type="html"><p id="abc">Hello</p></div>
