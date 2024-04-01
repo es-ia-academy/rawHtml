@@ -1,5 +1,8 @@
 <section id="RJVWqwG" data-type="section">
-      <style id="NFXfPGX" type="text/css" data-type="css"></style>
+      <style id="NFXfPGX" type="text/css" data-type="css">#abc{
+    bacground:red;
+}
+</style>
       <div id="hbmPHRy" data-type="html"><p id="abc">Hello</p></div>
       <script id="TcHdPWg" data-type="js"></script>
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
