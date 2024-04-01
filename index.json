@@ -1,18 +1,18 @@
 <section id="QnrEacU" data-type="section">
   <style id="jDCZNlW" type="text/css" data-type="css"></style>
   <div id="PoaDTBZ" data-type="html"><div id="menu">
-  <div id="logo">
-    <img src="../global/file/edit-section.svg">
+  <div id="menu-left">
+    <img id="menu-logo" src="../global/file/edit-section.svg">
   </div>
-  <div id="links">
-    <a id="MkaGmiu" href="https://www">INICIO</a>
-    <a id="xOLIyaR" href="https://www">IA GENERATIVA</a>
-    <a id="canqpCX" href="https://www">FORMACIONES</a>
-    <a id="kurYRiH" href="https://www">BLOG</a>
+  <div id="menu-center">
+    <a id="menu-inicio" href="https://www">INICIO</a>
+    <a id="menu-ia" href="https://www">IA GENERATIVA</a>
+    <a id="menu-formaciones" href="https://www">FORMACIONES</a>
+    <a id="menu-blog" href="https://www">BLOG</a>
   </div>
-  <div>
-    <a id="kurYRiH" href="https://www">CHAT</a>
-    <a id="imUWaZN" href="https://www">ES</a>
+  <div id="menu-right">
+    <a id="menu-chat" href="https://www">CHAT</a>
+    <a id="menu-es" href="https://www">ES</a>
   </div>
 </div>
 </div>
