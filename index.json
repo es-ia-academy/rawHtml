@@ -12,7 +12,25 @@
   </div>
 </div>
 </div>
-        <script id="liVZVZo" data-type="js"></script>
+        <script id="liVZVZo" data-type="js">@media screen and (min-width:0px){#a-it{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+@media screen and (min-width:0px){#img-it{object-fit:contain;height:20px;width:20px;}}
+@media screen and (min-width:0px){#a-es{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+@media screen and (min-width:0px){#img-es{object-fit:contain;height:20px;width:20px;}}
+@media screen and (min-width:0px){#a-fr{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;}}
+@media screen and (min-width:0px){#img-fr{object-fit:contain;height:20px;width:20px;border-radius:50%;}}
+@media screen and (min-width:0px){#dropdown_list{position: absolute;background: white;}}
+@media screen and (min-width:0px){#dropdown_open{background: white;padding: 15px;color:black;font-size: 14px;display: flex;gap:10px;min-width: 80px;border-radius:10px;}}
+@media screen and (min-width:0px){#keQVLFv{background: white;padding: 0 15px;color:black;font-size: 14px;border-radius: 10px;text-underline-position: under;height: 50px;display: grid;place-content: center;}}
+@media screen and (min-width:0px){#MidhHYg{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#RNwbwYr{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#hiBSxnZ{}}
+    @media screen and (min-width:0px){#zhsBoyJ{height:100px;width:100px;aspect-ratio: 1/1;object-fit:contain;}}
+    @media screen and (min-width:0px){#VjcbwaF{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#RjWhjbd{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#qzBuTcc{height:auto;display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#bVlMLPg{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#VjcbwaF{display:none;}}
+    @media screen and (max-width:640px){#RNwbwYr{grid-template-columns:repeat(2, auto); place-content:space-around;}}</script>
         <button class="toolbar-open" onclick="toolsOpenModal(this)">
           <img src="../global/file/edit-section.svg">
         </button>
