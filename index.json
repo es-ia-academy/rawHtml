@@ -3,3 +3,11 @@
   <div id="olJOlQD" data-type="html"></div>
   <script id="LtQUkPr" data-type="js"></script>
 </section>
+  <section id="FsLfSkF" data-type="section">
+  <style id="JNDCoQo" type="text/css" data-type="css"></style>
+  <div id="FjzmgMy" data-type="html"></div>
+  <script id="YMQISBR" data-type="js"></script>
+  <button class="toolbar-open" onclick="toolsOpenModal(this)">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
