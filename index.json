@@ -3,7 +3,19 @@
     padding:20px;
     width:100vw;
     text-align:center;
-}</style><div id="YDGSmKl" data-type="html"><h1 id="abc">Hello my friend</h1></div><script id="JAzvBxW" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="UEDmwiY" data-type="section"><style id="DILFbKE" type="text/css" data-type="css">#XgRcdSz
+}</style><div id="YDGSmKl" data-type="html"><div class="logo">
+  <img src="logo.png" alt="Logo">
+</div>
+<nav>
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Nosotros</a></li>
+    <li><a href="#">Servicios</a></li>
+    <li><a href="#">Productos</a></li>
+    <li><a href="#">Contacto</a></li>
+  </ul>
+</nav>
+</div><script id="JAzvBxW" data-type="js"></script><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="UEDmwiY" data-type="section"><style id="DILFbKE" type="text/css" data-type="css">#XgRcdSz
 {
   background: yellow;
   padding: 20px;
